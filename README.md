@@ -1,20 +1,6 @@
 # Restaurant Project WebII
 <h3>This project is an activity of the web II discipline. Develop a restaurant ordering system using spring web.</h3>
 
-<div>
-<h3>About the technologies used:</h3>
-    In java, all the basics of object-oriented programming were used.
-    The spring part was used spring MVC. Spring MVC is a framework that helps us develop web applications. 
-    This framework helped when working with web requests
-</div>
-   <div style="display: inline_block">
-    <h4>Technologies Used </h4>
-   <img align="center" alt="Bea-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img align="center" alt="Bea-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-   <img align="center" alt="Bea-MYSQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-   <img align="center" alt"Bea-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-   <img align="center" alt="Bea-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  
 
 <div>
 <h4>Below are the requirements.</h4>
@@ -31,6 +17,21 @@
 
   - The system must be made using database for data persistence.
 </div>
+
+
+<div>
+<h3>About the technologies used:</h3>
+    In java, all the basics of object-oriented programming were used.
+    The spring part was used spring MVC. Spring MVC is a framework that helps us develop web applications. 
+    This framework helped when working with web requests
+</div>
+   <div style="display: inline_block">
+    <h4>Technologies Used </h4>
+   <img align="center" alt="Bea-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   <img align="center" alt="Bea-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+   <img align="center" alt="Bea-MYSQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+   <img align="center" alt"Bea-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+   <img align="center" alt="Bea-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 
 
     
